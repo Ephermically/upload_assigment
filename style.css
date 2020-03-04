@@ -1,0 +1,21 @@
+.btn{
+  margin-top: 10px;;
+  padding: 10px;
+  color: white;
+  background-color: #19516b;
+  border: 5px ;
+  border-radius: 100px;
+  cursor: pointer;
+}
+.card{
+  padding: 20px 20px 20px 20px;
+} 
+
+body{
+  background-image: url("img/bg.jpg") ;
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
